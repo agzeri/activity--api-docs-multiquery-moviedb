@@ -8,8 +8,10 @@ body{
 }
 
 mark{
-  background: lightyellow;
+  background: #FFF59D;
   padding: 10px;
+
+  display: inline-block;
 }
 
 #app-container{
